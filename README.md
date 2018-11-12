@@ -29,6 +29,11 @@ Go the the URL below in google chrome.
 chrome://extensions/
 ```
 
+Make sure _Developer Mode_ is toggled on:
+
+![](./docs/assets/developer-mode-off.png)
+![](./docs/assets/developer-mode-on.png)
+
 Click the button `Load unpacked extension` and select the build folder.
 
 ## Develop
